@@ -100,9 +100,9 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 
 ## 🙌 Author
 
-**Baskaran B.**
-📧 [balabaskaran2001@gmail.com](mailto:balabaskaran2001@gmail.com)
-🔗 [Portfolio](https://baskaran01.github.io/baskaran_portfolio/)
+**Baskaran B**\
+📧 [balabaskaran2001@gmail.com](mailto:balabaskaran2001@gmail.com)\
+🔗 [Portfolio](https://baskaran01.github.io/baskaran_portfolio/)\
 🐙 [GitHub Profile](https://github.com/baskaran01)
 
 ---
